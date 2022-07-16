@@ -12,7 +12,7 @@
 // func main() {
 // 	fmt.Println("Hi there!")
 // }
-package main
+package second
 
 import "fmt"
 
